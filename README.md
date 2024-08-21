@@ -1,0 +1,1 @@
+This is an app to capture an object when it appears in front of the camera and sent an image with the object to the email.
